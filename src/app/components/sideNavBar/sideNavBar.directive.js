@@ -35,7 +35,7 @@
         {
           name: 'Contact',
           active: false
-        },
+        }
       ]
       
       vm.navItems = [{
